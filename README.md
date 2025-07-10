@@ -8,3 +8,8 @@ Phyton window
 學院修改 1
 學院修改 2
 學院修改 3
+家裡修改 1
+家裡修改 2  
+家裡修改 3
+變更 暫存變更 提交(後面有說明) 同步(上傳)
+上課網址 https://meet.google.com/rvq-smie-nnp
