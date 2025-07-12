@@ -14,5 +14,6 @@ Phyton window
 家裡修改 4
 家裡修改 5 
 家裡修改 6
+家裡修改 7
 變更 暫存變更 提交(後面有說明) 同步(上傳)
 上課網址 https://meet.google.com/rvq-smie-nnp
